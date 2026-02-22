@@ -1,0 +1,3 @@
+[submodule "1-adc"]
+	path = 1-adc
+	url = https://github.com/ar-in0/1-adc.git
